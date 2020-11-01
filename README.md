@@ -21,5 +21,5 @@ Exemplo de uso: Pege a URL que está fazendo "forwarding" no Ngrok e coloque no 
 
 Este repositório contém um ícone de guarda-chuva para o seu bot, <a href="https://raw.githubusercontent.com/ValentimMuniz/Webexs-Tems-Umbrella-Investigate-Reporting-BOT/main/screenshots/umbrella.png">umbrella.png </a><br>
 
-#Arquivo de configuração, modificar com seus dados e credenciais antes de rodas o script
+# Arquivo de configuração, modificar com seus dados e credenciais antes de rodar o script
 <img src="screenshots/config_file.png">
