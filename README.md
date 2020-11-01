@@ -2,7 +2,7 @@
 
 Este repositório contém um script em Python que cria um Bot no Webex Teams integrado ao Cisco Umbrella Investigate & Reporting. Para executar este script, você precisa de uma [conta de desenvolvedor](https://developer.webex.com/docs) do Webex</a> e seguir <a href = "https://developer.webex.com/docs/bots" target="_blank">esta documentação</a> para criar um bot.
 
-Este script usará uma sala no Webex Teams para registrar todas as mensagens enviadas e recebidas seu Bot. Portanto, você precisará criar uma sala no Webex Teams e incluir seu Bot nela. Use esta <a href = "https://developer.webex.com/docs/api/v1/rooms/list-rooms" target="_blank"> chamada de API</a> para encontrar o roomId.
+Este script usará uma sala no Webex Teams para registrar todas as mensagens enviadas e recebidas do seu Bot. Portanto, você precisará criar uma sala no Webex Teams e incluir seu Bot nela. Use esta <a href = "https://developer.webex.com/docs/api/v1/rooms/list-rooms" target="_blank"> chamada de API</a> para encontrar o roomId.
 
 Um token de acesso <a href="https://docs.umbrella.com/investigate-api/docs/about-the-api-authentication" target="_blank">Cisco Umbrella Investigate API</a> também é necessário para execução do script.
 
@@ -20,6 +20,8 @@ Exemplo de uso: Pege a URL que está fazendo "forwarding" no Ngrok e coloque no 
 
 Este repositório contém um ícone de guarda-chuva para o seu bot, <a href="https://raw.githubusercontent.com/ValentimMuniz/Webexs-Tems-Umbrella-Investigate-Reporting-BOT/main/screenshots/umbrella.png">umbrella.png </a><br>
 
+<b> OBS: COMO O BOT ESTÁ EM UM GRUPO, ELE DEVE SER MENCIONADO @ PARA QUE AS MENSAGENS SEJAM TROCADAS<b><b>
+  
 # Arquivo de configuração, modificar com seus dados e credenciais antes de rodar o script
 <img src="screenshots/config_file.png"><br><br><br>
 
