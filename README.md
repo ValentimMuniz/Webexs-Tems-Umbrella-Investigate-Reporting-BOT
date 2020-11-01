@@ -8,7 +8,7 @@ Um token de acesso <a href="https://docs.umbrella.com/investigate-api/docs/about
 
 API key e API secret do <a href="https://docs.umbrella.com/umbrella-api/docs/authentication-and-errors">Cisco Umbrella Management API</a> também é necessário para execução do script.
 
-O Id da sua Organização do Umbrella também é necessário para execução do script! Use <a href = "https://docs.umbrella.com/deployment-umbrella/docs/find-your-organization-id" target="_blank">esta documentação</a> para saber como pegar seu Organization ID.
+O ID da sua Organização do Umbrella também é necessário para execução do script! Use <a href = "https://docs.umbrella.com/deployment-umbrella/docs/find-your-organization-id" target="_blank">esta documentação</a> para saber como obter seu Organization ID.
 
 Como o Webex Teams é uma solução em nuvem, por segurança, ele trabalha com controle de acesso! No arquivo de configuração edite os domínios de emails autorizados para enviar mensagem ao Bot! 
 <b> ex: cisco.com, gmail.com</b>
