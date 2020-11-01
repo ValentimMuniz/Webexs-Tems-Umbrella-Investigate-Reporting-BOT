@@ -23,7 +23,7 @@ Exemplo de uso: Pege a URL que está fazendo "forwarding" no Ngrok e coloque no 
 <b> OBS: COMO O BOT ESTÁ EM UM GRUPO, ELE DEVE SER MENCIONADO @ PARA QUE AS MENSAGENS SEJAM TROCADAS<b><b>
 
 # Arquivo de configuração, modificar com seus dados e credenciais antes de rodar o script
-<img src="screenshots/config_file.png"><br><br><br>
+<img src="screenshots/config.png"><br><br><br>
 
 # O Bot é inteligente e responde caso alguma configuração está errada
 <img src="screenshots/warning.png"><br><br>
