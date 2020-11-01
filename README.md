@@ -13,12 +13,12 @@ O Id da sua Organização do Umbrella também é necessário para execução do 
 Como o Webex Teams é uma solução em nuvem, por segurança, ele trabalha com controle de acesso! No arquivo de configuração edite os domínios de emails autorizados para enviar mensagem ao Bot! 
 <b> ex: cisco.com, gmail.com</b>
 
+Este repositório contém um ícone do Umbrella para o seu bot, <a href="https://raw.githubusercontent.com/ValentimMuniz/Webexs-Tems-Umbrella-Investigate-Reporting-BOT/main/screenshots/umbrella.png">umbrella.png </a><br>
 
 Certifique-se de adicionar seu WebHook usando https://developer.webex.com/docs/api/v1/webhooks/create-a-webhook. Caso queira fazer um com um servidor local, recomendo que use o <a href = "https://ngrok.com/"> Ngrok </a>, uma ferramenta execente para fazer "forwarding" de portas em serviços HTTP.</a> <br>
 Exemplo de uso: Pege a URL que está fazendo "forwarding" no Ngrok e coloque no <b>targetUrl</b>, na criação do WebHook do Webex Teams.<br>
 <img src="screenshots/ngrok.png"><br><br><br>
 
-Este repositório contém um ícone de guarda-chuva para o seu bot, <a href="https://raw.githubusercontent.com/ValentimMuniz/Webexs-Tems-Umbrella-Investigate-Reporting-BOT/main/screenshots/umbrella.png">umbrella.png </a><br>
 
 <b> OBS: COMO O BOT ESTÁ EM UM GRUPO, ELE DEVE SER MENCIONADO @ PARA QUE AS MENSAGENS SEJAM TROCADAS<b><b>
   
@@ -26,4 +26,11 @@ Este repositório contém um ícone de guarda-chuva para o seu bot, <a href="htt
 <img src="screenshots/config_file.png"><br><br><br>
 
 # Controle de acesso do BOT
-<img src="screenshots/domain_nao_autorizado.png"><br><br><br>
+<img src="screenshots/domain_nao_autorizado.png"><br><br>
+
+# Trocando mensagem com o BOT
+<img src="screenshots/hi.png"><br><br>
+
+# Lista de comandos disponíveis
+<img src="screenshots/hi.png"><br><br>
+
