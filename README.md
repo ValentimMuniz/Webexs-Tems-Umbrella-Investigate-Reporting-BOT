@@ -50,4 +50,8 @@ Exemplo de uso: Pege a URL que está fazendo "forwarding" no Ngrok e coloque no 
 <img src="screenshots/threats.png"><br><br>
 
 # Sumário do Umbrella Reporting em um mês
-<img src="screenshots/summary.png"><br><br>
+<img src="screenshots/summary.png"><br><br><br>
+
+
+# Credits:
+alexandre@argeris.net for original bot script! 
