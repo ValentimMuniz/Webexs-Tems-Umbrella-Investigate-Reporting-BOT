@@ -21,17 +21,33 @@ Exemplo de uso: Pege a URL que está fazendo "forwarding" no Ngrok e coloque no 
 
 
 <b> OBS: COMO O BOT ESTÁ EM UM GRUPO, ELE DEVE SER MENCIONADO @ PARA QUE AS MENSAGENS SEJAM TROCADAS<b><b>
-  
+
+# O Bot é inteligente e responde caso alguma configuração está errada
+<img src="screenshots/warning.png"><br><br>
+
 # Arquivo de configuração, modificar com seus dados e credenciais antes de rodar o script
 <img src="screenshots/config_file.png"><br><br><br>
 
 # Controle de acesso do BOT
-<img src="screenshots/domain_nao_autorizado.png"><br><br>
+<img src="screenshots/domimio_nao_autorizado.png"><br><br>
 
 # Trocando mensagem com o BOT
-<img src="screenshots/hi.png"><br><br>
+<img src="screenshots/interagindo.png"><br><br>
 
 # Lista de comandos disponíveis
-<img src="screenshots/hi.png"><br><br>
+<img src="screenshots/ajuda.png"><br><br>
 
 # LISTAGEM do TOP domínios mundiais vistos pela Umbrella
+<img src="screenshots/list_top.png"><br><br>
+
+# Consulta no Umbrella Investigate por um dominio
+<img src="screenshots/domains.png"><br><br>
+
+# Consulta no Umbrella Reporting por Total de Requests em um mês
+<img src="screenshots/totalreq.png"><br><br>
+
+# Consulta no Umbrella Reporting por top ameaças em um mês
+<img src="screenshots/threats.png"><br><br>
+
+# Sumário do Umbrella Reporting em um mês
+<img src="screenshots/summary.png"><br><br>
