@@ -1,0 +1,22 @@
+[Umbrella]
+OrgID = <Organization ID>
+ManagementAPIKey = <Umbrella Management API Key>
+ManagementAPISecret = <Umbrella Management Secret Key>
+InvestigateKey = <Umbrella Management API Key>
+
+[Bot]
+AccessToken = <Bot Access Token>
+
+[Webex]
+RoomID = <RoomId>
+WebexDomain=<Webex teams allowed domains>
+
+[WebHook]
+Port = <WebHook Port>
+
+[Logs]
+Directory =
+Prefix = <Log prefix name>
+
+[Script]
+AdminEmail = <Admin email>
