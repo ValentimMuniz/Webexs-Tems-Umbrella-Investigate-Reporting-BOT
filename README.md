@@ -29,7 +29,7 @@ Exemplo de uso: Pege a URL que está fazendo "forwarding" no Ngrok e coloque no 
 <img src="screenshots/warning.png"><br><br>
 
 # Controle de acesso do BOT
-<img src="screenshots/domimio_nao_autorizado.png"><br><br>
+<img src="screenshots/dominio_nao_autorizado.png"><br><br>
 
 # Trocando mensagem com o BOT
 <img src="screenshots/interagindo.png"><br><br>
