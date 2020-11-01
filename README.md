@@ -1,6 +1,6 @@
 # Cisco Umbrella Investigate & Reporting Webex Teams Bot
 
-Este repositório contém um script em Python que cria um Bot no Webex Teams integrado ao Cisco Umbrella Investigate & Reporting. Para executar este script, você precisa de uma <a href= "https://developer.webex.com/login" target="_blank">conta de desenvolvedor do Webex</a> e seguir <a href = "https://developer.webex.com/docs/bots" target="_blank">esta documentação</a> para criar um bot.
+Este repositório contém um script em Python que cria um Bot no Webex Teams integrado ao Cisco Umbrella Investigate & Reporting. Para executar este script, você precisa de uma [conta de desenvolvedor](https://developer.webex.com/docs) do Webex</a> e seguir <a href = "https://developer.webex.com/docs/bots" target="_blank">esta documentação</a> para criar um bot.
 
 Este script usará uma sala no Webex Teams para registrar todas as mensagens enviadas e recebidas seu Bot. Portanto, você precisará criar uma sala no Webex Teams e incluir seu Bot nela. Use esta <a href = "https://developer.webex.com/docs/api/v1/rooms/list-rooms" target="_blank"> chamada de API</a> para encontrar o roomId.
 
