@@ -35,7 +35,7 @@ Exemplo de uso: Pege a URL que está fazendo "forwarding" no Ngrok e coloque no 
 <img src="screenshots/interagindo.png"><br><br>
 
 # Lista de comandos disponíveis
-<img src="screenshots/ajuda.png"><br><br>
+<img src="screenshots/bot_ajuda.png"><br><br>
 
 # LISTAGEM do TOP domínios mundiais vistos pela Umbrella
 <img src="screenshots/list_top.png"><br><br>
