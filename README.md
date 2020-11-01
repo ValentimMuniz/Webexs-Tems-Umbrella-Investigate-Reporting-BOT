@@ -1,12 +1,14 @@
 # Cisco Umbrella Investigate & Reporting Webex Teams Bot
 
-Este repositório contém um script em Python que cria um Bot no Webex Teams integrado ao Cisco Umbrella Investigate & Reporting. Para executar este script, você precisa de uma <a href= "https://developer.webex.com/login">conta de desenvolvedor do Webex</a> e seguir <a href = "https://developer.webex.com/docs/bots">esta documentação</a> para criar um bot.
+Este repositório contém um script em Python que cria um Bot no Webex Teams integrado ao Cisco Umbrella Investigate & Reporting. Para executar este script, você precisa de uma <a href= "https://developer.webex.com/login" target="_blank">conta de desenvolvedor do Webex</a> e seguir <a href = "https://developer.webex.com/docs/bots" target="_blank">esta documentação</a> para criar um bot.
 
-Este script usará uma sala no Webex Teams para registrar todas as mensagens enviadas e recebidas seu Bot. Portanto, você precisará criar uma sala no Webex Teams e incluir seu Bot nela. Use esta <a href = "https://developer.webex.com/docs/api/v1/rooms/list-rooms"> chamada de API</a> para encontrar o roomId.
+Este script usará uma sala no Webex Teams para registrar todas as mensagens enviadas e recebidas seu Bot. Portanto, você precisará criar uma sala no Webex Teams e incluir seu Bot nela. Use esta <a href = "https://developer.webex.com/docs/api/v1/rooms/list-rooms" target="_blank"> chamada de API</a> para encontrar o roomId.
 
-Um token de acesso <a href="https://docs.umbrella.com/investigate-api/docs/about-the-api-authentication">Cisco Umbrella Investigate API</a> também é necessário para execução do script.
+Um token de acesso <a href="https://docs.umbrella.com/investigate-api/docs/about-the-api-authentication" target="_blank">Cisco Umbrella Investigate API</a> também é necessário para execução do script.
 
 API key e API secret do <a href="https://docs.umbrella.com/umbrella-api/docs/authentication-and-errors">Cisco Umbrella Management API</a> também é necessário para execução do script.
+
+O Id da sua Organização do Umbrella também é necessário para execução do script! Use <a href = "https://docs.umbrella.com/deployment-umbrella/docs/find-your-organization-id" target="_blank">esta documentação</a> para saber como pegar seu Organization ID.
 
 Como o Webex Teams é uma solução em nuvem, por segurança, no arquivo de configuração edite os domínios de emails autorizados para enviar mensagem ao Bot! 
 <b> ex: cisco.com, vitait.com</b>
